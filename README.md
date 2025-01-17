@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ana.carolina.gui.ramos@gmail.com**
 
-- ⚡ Fun fact **I'm Bronze 4 in league of legends.**
+- ⚡ Fun fact **i can work for free for the experience.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
