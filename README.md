@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ana.carolina.gui.ramos@gmail.com**
 
-- ⚡ Fun fact **i can work for free for the experience.**
+- ⚡ Fun fact **I’m open to unpaid opportunities if it helps me build relevant experience.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
