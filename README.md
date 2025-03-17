@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python and Django**
 
-- 💬 Ask me about **anything, lets learn with each other**
+- 💬 Ask me about **anything, let's learn with each other**
 
 - 📫 How to reach me **ana.carolina.gui.ramos@gmail.com**
 
