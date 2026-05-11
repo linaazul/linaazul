@@ -3,6 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=linaazul&label=Profile%20views&color=0e75b6&style=flat" alt="linaazul" /> </p>
 
+<div align="right">
+  <img height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExamZqdnd6bmE4aDBsankzcjBjd2trZDM3YmVsZ3kyejd0aHgxb2VlaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XEOUMqltCrGdCnatFF/giphy.gif"  />
+</div>
+
 - 🌱 I’m currently learning **Python, Django and Unity**
 
 - 💬 Ask me about **anything, let's learn with each other**
@@ -31,6 +35,15 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
 </div>
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/linaazul/linaazul/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/linaazul/linaazul/languages-output/languages.svg" height="150" alt="languages graph"  />
+</div>
+
+###
 
 ###
 
