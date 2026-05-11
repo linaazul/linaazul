@@ -7,7 +7,7 @@
   <img height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExamZqdnd6bmE4aDBsankzcjBjd2trZDM3YmVsZ3kyejd0aHgxb2VlaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XEOUMqltCrGdCnatFF/giphy.gif"  />
 </div>
 
-- 🌱 I’m currently learning **Python, Django and Unity**
+- 🌱 I’m currently focusing in **Python and Django**
 
 - 💬 Ask me about **anything, let's learn with each other**
 
