@@ -39,8 +39,7 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/linaazul/linaazul/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/linaazul/linaazul/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/linaazul/linaazul/main/metrics.svg" />
 </div>
 
 ###
